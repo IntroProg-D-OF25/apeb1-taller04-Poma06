@@ -23,3 +23,21 @@ public class Ejercicio3 {
     }
     
 }
+
+/***
+ * debug: 
+ * QUE TABLA QUIERES PRESENTAR
+5
+1 x5 = 5
+2 x5 = 10
+3 x5 = 15
+4 x5 = 20
+5 x5 = 25
+6 x5 = 30
+7 x5 = 35
+8 x5 = 40
+9 x5 = 45
+10 x5 = 50
+11 x5 = 55
+12 x5 = 60
+ */
